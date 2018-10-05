@@ -8,9 +8,10 @@ class Program
         Console.ReadLine();
     }
 
-    void sayHello()
+    static void sayHello()
     {
         Console.WriteLine("Hello World.");
     }
 }
+
 
